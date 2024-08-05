@@ -1,3 +1,7 @@
+
+![Screenshot 2024-08-04 at 11 07 50 PM](https://github.com/user-attachments/assets/491502cd-0182-40d5-864b-c07b7a1fbb47)
+
+
 Certainly! I'll help you update your README.md file to reflect this e-commerce flash sale platform project. Here's a revised version of the README that incorporates the specific requirements and goals of your project:
 
 ```markdown
