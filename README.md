@@ -44,7 +44,7 @@ AWS services used in this project include:
 
 ```bash
 git clone https://github.com/yotlaire/E-Commerce-Flash-Sale-Platform.git
-cd flash-sale-platform
+cd terraform
 ```
 
 ### Initialize Terraform
